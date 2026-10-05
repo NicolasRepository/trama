@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256">
+  <rect width="512" height="256" fill="#F1E5CC"/>
+  <path d="M52 178c44-75 74-89 111-68 32 18 39-28 80-35 51-9 61 55 104 29 38-23 65-2 107 37" fill="none" stroke="#511618" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="251" cy="118" r="51" fill="#CB3D2F" stroke="#511618" stroke-width="5"/>
+  <path d="M223 103c20 25 44 24 62 0m-72 31c22-15 48 17 76 0m-61 24c18-18 34 1 52-12" fill="none" stroke="#511618" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="240" cy="119" r="4" fill="#511618"/><circle cx="263" cy="117" r="4" fill="#511618"/>
+  <text x="32" y="54" font-family="Arial Black, Arial, sans-serif" font-size="39" letter-spacing="-4" fill="#511618">tRama</text>
+  <text x="32" y="227" font-family="Arial, sans-serif" font-size="14" letter-spacing="2" fill="#511618">IDEIAS QUE SE ENTRELAÇAM.</text>
+</svg>
